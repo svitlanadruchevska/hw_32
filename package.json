@@ -1,0 +1,31 @@
+{
+  "name": "hw_32",
+  "version": "1.0.0",
+  "description": "**Для виконання цього ДЗ вам необхідно переглянути урок по npm**",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svitlanadruchevska/hw_32.git"
+  },
+  "keywords": [
+    "projectNpm"
+  ],
+  "author": "Druchevska Svitlana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svitlanadruchevska/hw_32/issues"
+  },
+  "homepage": "https://github.com/svitlanadruchevska/hw_32#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-react": "^7.33.2",
+    "prettier": "^3.2.4"
+  }
+}
